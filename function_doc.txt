@@ -1,0 +1,11 @@
+
+fuction document
+===============================
+===============================
+
+
+
+//function of  Get ALL Recored 
+
+
+getAllFrom($field,$table,$where = NULL,$and = NULL,$orderfield,$ordering ="DESC")
